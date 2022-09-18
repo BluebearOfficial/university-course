@@ -1,5 +1,7 @@
 # **university-course**
 
+![](https://count.getloli.com/get/@universitycourse)
+
 ## 索引
 
 [注意！](#注意) 
