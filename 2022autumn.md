@@ -1,4 +1,4 @@
-# **university-course**
+# **2022年秋季学期课程说明**
 
 ![](https://count.getloli.com/get/@universitycourse)
 
